@@ -1,0 +1,40 @@
+
+body {
+background-image: url('https://image.freepik.com/free-photo/laptop-with-blank-white-screen-office-desk_23-2147879865.jpg');
+background-size: cover;
+background-position: center;
+font-family: 'Oswald', sans-serif;
+color: #06f;
+}
+.list-group {
+	float: right;
+	margin-top: -1em;
+	margin-right: 1em;
+}
+.sec-1 {
+	margin: 3em auto;
+
+}	
+.sec-1 img {
+	width: 5em;
+	margin-bottom: 1em;
+}
+ul {
+	text-align: center;
+	padding: 16em;
+}
+ul li {
+	display: inline-block;
+	width: 8.5em;
+}
+ul li .fa {
+	background: green;
+	width: 1em;
+	height: 1em;
+	color: #fff;
+	border-radius: 50%;
+}
+# img-1 {
+	background-size: cover;
+	
+}
